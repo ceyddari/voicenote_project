@@ -1,0 +1,8 @@
+.history/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+pubspec.lock
+build/
+.packages
+.metadata
